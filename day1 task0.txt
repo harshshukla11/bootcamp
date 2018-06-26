@@ -1,0 +1,40 @@
+WordPress is a free and open source content management system. It is based on php and MYsql and uses web server or internet hosting service for website publising.
+It was realeased in 2003 may 27 matt mullenweg and mike little.
+It works on web template system used for web plusing resuing the static elements and dynamicaaly elements can be changed.
+As per now digital ocean on the best wordpress hosting sites.
+
+Some uses of WordPress are:
+Website management made easy
+Extend your website
+Unlimited pages on your website
+Multilingual websites
+Wordpress is an open source CMS
+Easy changing of your domain or company name
+Wordpress is SEO friendly
+Can post updates, contents and offers easily.
+
+Word Press plugin architecture allows users to extend the features and functionality of a website or blog.
+ As of March 2017, WordPress has over 55,286 plugins available,
+ each of which offers custom functions and features enabling users to tailor their sites to their specific needs. 
+These customizations range from search engine optimization, to client portals used to display private information to logged in users, 
+to content management systems, to content displaying features, such as the addition of widgets and navigation bars
+
+Disadvantages of .org version - 
+
+1. Disadvantages Modification requires knowledge of PHP   
+Operations like removing a date field requires some understanding  of PHP language. 
+It is the case for most of such modifications.
+
+2.Graphics modification requires knowledge of CSS and HTML   
+Although there are plenty templates available on the homepage, 
+most  of them are very alike. To create a unique look, you need to know CSS  and HTML.
+
+3.Plugins and efficiency   
+To compete with Joomla! or Drupal, WordPress needs plenty of  plugins to be installed. 
+Unfortunately these plugins influence the  script's efficiency and not in a good way. 
+Another problem arises when  you need to choose a plugin for a specific functionality
+
+VERSIONs
+version 2003 0.7 version (intial phase)
+version 2004 1.0 davis (first launch phase)
+version 2017 4.9 tipton (currently used)
